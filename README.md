@@ -11,7 +11,7 @@
 
 ## Content that doesn't need translation
 
-- | -    
+ _ | _     
 -- | --
 array | mock
 arrow function | portal
@@ -122,4 +122,5 @@ wrapper |	?
 
 # Z
 
-_Inspired by https://github.com/cezaraugusto/You-Dont-Know-JS - Wordreference_
+_Inspired by https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/WORDREFERENCE.md_
+_ReactJS pt_BR Translation: https://github.com/reactjs/pt-BR.reactjs.org_
